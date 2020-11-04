@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 5eb82aa0018b48e4db90907bf9f67b83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5641938143499426918
+    second: InimigoDinossauro_0
+  - first:
+      213: 5150508815981143297
+    second: InimigoDinossauro_1
+  - first:
+      213: 24984951004490100
+    second: InimigoDinossauro_2
+  - first:
+      213: 7001376682448496295
+    second: InimigoDinossauro_3
+  - first:
+      213: -4943226297994189376
+    second: InimigoDinossauro_4
+  - first:
+      213: 1383266609177186818
+    second: InimigoDinossauro_5
+  - first:
+      213: 8003292776084228197
+    second: InimigoDinossauro_6
+  - first:
+      213: -8070525207985185204
+    second: InimigoDinossauro_7
+  - first:
+      213: -8986340950229999345
+    second: InimigoDinossauro_8
+  - first:
+      213: 869645988151602906
+    second: InimigoDinossauro_9
+  - first:
+      213: 3431716536208523756
+    second: InimigoDinossauro_10
+  - first:
+      213: -9197917170309950609
+    second: InimigoDinossauro_11
+  - first:
+      213: -2532873752672575808
+    second: InimigoDinossauro_12
+  - first:
+      213: -3894117844422324903
+    second: InimigoDinossauro_13
+  - first:
+      213: 1075851440038815336
+    second: InimigoDinossauro_14
+  - first:
+      213: -7476012626702980845
+    second: InimigoDinossauro_15
+  - first:
+      213: 8458693865960326064
+    second: InimigoDinossauro_16
+  - first:
+      213: 6276171482092775733
+    second: InimigoDinossauro_17
+  - first:
+      213: -630032065039644253
+    second: InimigoDinossauro_18
+  - first:
+      213: 3964890751018519157
+    second: InimigoDinossauro_19
+  - first:
+      213: 3274933031766200012
+    second: InimigoDinossauro_20
+  - first:
+      213: -1439479897134546084
+    second: InimigoDinossauro_21
+  - first:
+      213: -6985887818930610708
+    second: InimigoDinossauro_22
+  - first:
+      213: -2067868867032263822
+    second: InimigoDinossauro_23
+  - first:
+      213: -172156336666823663
+    second: InimigoDinossauro_24
+  - first:
+      213: -4884135849436435427
+    second: InimigoDinossauro_25
+  - first:
+      213: 1725062798736724234
+    second: InimigoDinossauro_26
+  - first:
+      213: -5083212534945637261
+    second: InimigoDinossauro_27
+  - first:
+      213: 6559434148092031701
+    second: InimigoDinossauro_28
+  - first:
+      213: 7270422537760643158
+    second: InimigoDinossauro_29
+  - first:
+      213: -2042542930358654368
+    second: InimigoDinossauro_30
+  - first:
+      213: -4438546544059030446
+    second: InimigoDinossauro_31
+  - first:
+      213: 7425860906862788359
+    second: InimigoDinossauro_32
+  - first:
+      213: 164266669366911352
+    second: InimigoDinossauro_33
+  - first:
+      213: 5481011139111720801
+    second: InimigoDinossauro_34
+  - first:
+      213: -2586986162355981832
+    second: InimigoDinossauro_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InimigoDinossauro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936df7962fc3b1b0800000000000000
+      internalID: -5641938143499426918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e215ca784a7740800000000000000
+      internalID: 5150508815981143297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796a593ea3c85000800000000000000
+      internalID: 24984951004490100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ab007ff2e92160800000000000000
+      internalID: 7001376682448496295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5efaf4fd1266bb0800000000000000
+      internalID: -4943226297994189376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025aa5f6a9523310800000000000000
+      internalID: 1383266609177186818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56843f76068611f60800000000000000
+      internalID: 8003292776084228197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e1533351cbfff80800000000000000
+      internalID: -8070525207985185204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01aef6748a1a4380800000000000000
+      internalID: -8986340950229999345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeae1c2b6a911c00800000000000000
+      internalID: 869645988151602906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce10b86f108ef9f20800000000000000
+      internalID: 3431716536208523756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoDinossauro_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f639536f01f6a5080800000000000000
+      internalID: -9197917170309950609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

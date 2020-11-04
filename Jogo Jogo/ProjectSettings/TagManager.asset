@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - Inimigo
+  - Tiro
+  - Moeda
+  - MoedaDourada
+  - Morre
+  - AtaqueJogador
+  - Vida
+  - CristalAzul
+  - CristalVermelho
+  - CristalVerde
+  - CristalBranco
+  - CristalRoxo
+  - Limite
+  - Energia
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Jogador
+  - Item
+  - Tiro
+  - Inimigo
+  - Chao
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fundo1
+    uniqueID: 3521526219
+    locked: 0
+  - name: Fundo2
+    uniqueID: 4249511431
+    locked: 0
+  - name: Blocos
+    uniqueID: 642971763
+    locked: 0
+  - name: Paisagem
+    uniqueID: 2121954755
+    locked: 0
+  - name: Itens
+    uniqueID: 1777204355
+    locked: 0
+  - name: Jogador-Inimigo
+    uniqueID: 2696102313
+    locked: 0
