@@ -1,2 +1,2 @@
 # Jogo2D-Unity
-Jogo 2D desenvolvido no motor gráfico Unity e na linguagem C#
+Protótipo de jogo 2D desenvolvido no motor gráfico Unity e utilizando a linguagem C#
